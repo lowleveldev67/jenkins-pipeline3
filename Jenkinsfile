@@ -20,8 +20,9 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'HTML site 3 deployed successfully!'
+
+                
             }
         }
     }
-}
+
